@@ -55,9 +55,9 @@ Certifique-se de ter o Python instalado e uma API Key do Google Gemini, além de
 
 Clone o repositório e instale as dependências necessárias:
 
-git clone [https://github.com/seu-usuario/wordpresser.git](https://github.com/seu-usuario/wordpresser.git)
-cd wordpresser
-pip install -r requirements.txt
+git clone https://github.com/victor00romano-lgtm/wordpresser-seo-pipeline.git
+   cd wordpresser-seo-pipeline
+   pip install -r requirements.txt
 
 
 3. Variáveis de Configuração
