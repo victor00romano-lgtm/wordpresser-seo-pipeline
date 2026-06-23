@@ -1,0 +1,19 @@
+# Configurações sensíveis
+config.py
+
+# Arquivos locais de teste e dados temporários
+repo_text/*.pdf
+repo_thumbs/*.png
+repo_thumbs/*.jpg
+repo_thumbs/*.jpeg
+repo_thumbs/*.webp
+
+# Pastas de ambiente virtual do Python
+venv/
+.venv/
+env/
+
+# Arquivos gerados pelo Python nos bastidores
+__pycache__/
+*.pyc
+.DS_Store
